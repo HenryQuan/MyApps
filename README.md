@@ -12,8 +12,27 @@ This includes some of my early IOS projects. They were written in Objective-C an
 This was never published on AppStore because it wasn't working properly and I gave up sonn after that. It was about testing whether certain websites were accessible or not. I remember it didn't work for ipv6 addresses.
 
 ## Native Android
+### [AnimeBoard](https://github.com/HenryQuan/AnimeBoard)
+This can be considered as my first ever Android app. It is a mobile client of certain website and when I have time, I will update it with more features. Android development is still quite challenging for me.
+
+### [WordList](https://github.com/HenryQuan/MyWordList)
+This app was meant to copy any words you don't know and save into a plain text file to be imported into Quizlet later.
+
+### [CPUSpeed](https://github.com/HenryQuan/CPUSpeed)
+Change CPU frequency for rooted Android devices. It doesn't really work on all devices and I might update it later.
+
+### [SendText](https://github.com/HenryQuan/SendText-to-PC)
+Send text from your android phone to your desktop. However, now I use discord more and it can be really useful sometimes.
 
 ## React Native
+### [WoWs Info RE](https://github.com/HenryQuan/WoWs-Info-Re)
+WoWs Info but with React Native. I am still working this project but I need to do something else I think.
+
+### [AnimeGo](https://github.com/HenryQuan/AnimeGo)
+A mobile client for a certain website. I rarely use it now but It might improve when I have time.
+
+### [Memo](https://github.com/HenryQuan/Memo)
+It was meant to copy OnePlus' note app but it didn't work that well.
 
 ## Flutter
 
